@@ -28,16 +28,18 @@ class SignUpPage extends Component {
     super(props);
     this.state = {
       username: '',
+      fullname: '',
+      email: '',
       password: '',
       errorMessage: null,
     };
   }
 
   submit = async () => {
-    const { username, password } = this.state;
+    const { username, password, email, fullname } = this.state;
 
     try {
-      await this.props.userStore.signup(username, password);
+      await this.props.userStore.signup({username, password, email, fullname});
       window.location.hash = '/signin';
     } catch (error) {
       const errorMessage = error.response.data.message;
