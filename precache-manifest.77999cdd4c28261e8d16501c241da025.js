@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc07718588d7f716bf569bd213b70349",
+    "revision": "8ebfc8d46910e1e4310363f05ea989b1",
     "url": "https://ferozpuri.github.io/task-management-frontend/index.html"
   },
   {
-    "revision": "ae4e8a13c7593ca46d5c",
+    "revision": "bd8bcdf82aebd33ed670",
     "url": "https://ferozpuri.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ferozpuri.github.io/task-management-frontend/static/js/2.ccbe58d7.chunk.js"
   },
   {
-    "revision": "ae4e8a13c7593ca46d5c",
-    "url": "https://ferozpuri.github.io/task-management-frontend/static/js/main.b0418328.chunk.js"
+    "revision": "bd8bcdf82aebd33ed670",
+    "url": "https://ferozpuri.github.io/task-management-frontend/static/js/main.14637d38.chunk.js"
   },
   {
     "revision": "08229bb8bc268d8e0185",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://ferozpuri.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://ferozpuri.github.io/task-management-frontend/static/js/main.b0418328.chunk.js",
-    "main.js.map": "https://ferozpuri.github.io/task-management-frontend/static/js/main.b0418328.chunk.js.map",
+    "main.js": "https://ferozpuri.github.io/task-management-frontend/static/js/main.14637d38.chunk.js",
+    "main.js.map": "https://ferozpuri.github.io/task-management-frontend/static/js/main.14637d38.chunk.js.map",
     "runtime~main.js": "https://ferozpuri.github.io/task-management-frontend/static/js/runtime~main.3f7c382a.js",
     "runtime~main.js.map": "https://ferozpuri.github.io/task-management-frontend/static/js/runtime~main.3f7c382a.js.map",
     "static/js/2.ccbe58d7.chunk.js": "https://ferozpuri.github.io/task-management-frontend/static/js/2.ccbe58d7.chunk.js",
     "static/js/2.ccbe58d7.chunk.js.map": "https://ferozpuri.github.io/task-management-frontend/static/js/2.ccbe58d7.chunk.js.map",
     "index.html": "https://ferozpuri.github.io/task-management-frontend/index.html",
-    "precache-manifest.740a289cee87546cf84a09e7477cb4e5.js": "https://ferozpuri.github.io/task-management-frontend/precache-manifest.740a289cee87546cf84a09e7477cb4e5.js",
+    "precache-manifest.77999cdd4c28261e8d16501c241da025.js": "https://ferozpuri.github.io/task-management-frontend/precache-manifest.77999cdd4c28261e8d16501c241da025.js",
     "service-worker.js": "https://ferozpuri.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://ferozpuri.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }

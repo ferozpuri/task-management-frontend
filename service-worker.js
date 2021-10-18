@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://ferozpuri.github.io/task-management-frontend/precache-manifest.740a289cee87546cf84a09e7477cb4e5.js"
+  "https://ferozpuri.github.io/task-management-frontend/precache-manifest.77999cdd4c28261e8d16501c241da025.js"
 );
 
 self.addEventListener('message', (event) => {
