@@ -13,8 +13,8 @@ export default class UserStore {
   }
 
   @action
-  async signup(username, password) {
-    return this.authService.signup(username, password);
+  async signup(data) {
+    return this.authService.signup(data);
   }
 
   @action
